@@ -1,0 +1,49 @@
+1. WannaCry Ransomware Attack (2017) 
+WannaCry spread rapidly by exploiting a vulnerability in Microsoft Windows systems. It encrypted files and demanded ransom payments from victims. 
+      CIA Triad Impact 
+•	Availability (Primary): The attack locked users out of their systems and files, disrupting hospitals, businesses, and government organizations worldwide. 
+•	Integrity (Secondary): Encrypted files were altered, making them unusable until recovered. 
+•	Confidentiality (Low): The malware focused on encryption rather than stealing sensitive information. 
+Most Affected: Availability 
+  
+     2. Equifax Data Breach (2017) 
+Equifax suffered a massive data breach after attackers exploited an unpatched Apache Struts vulnerability. Personal information of approximately 147 million people was exposed. 
+      CIA Triad Impact 
+•	Confidentiality (Primary): Highly sensitive customer information, including Social Security numbers and financial data, was stolen. 
+•	Integrity (Medium): Although data was not significantly modified, unauthorized access reduced confidence in data integrity. 
+•	Availability (Low): Business operations continued with minimal service disruption. Most Affected: Confidentiality 
+  
+     3. NotPetya Cyberattack (2017) 
+NotPetya appeared to be ransomware but was actually destructive malware designed to permanently damage systems. It spread through a compromised software update. 
+      CIA Triad Impact 
+•	Availability (Primary): Organizations lost access to critical systems and operations were severely disrupted. 
+•	Integrity (Primary): System files and boot records were permanently destroyed, making recovery impossible without backups. 
+• 	Confidentiality (Low): The attack focused on destruction rather than data theft. Most Affected: Availability and Integrity 
+  
+    4. SolarWinds Supply Chain Attack (2020) 
+Attackers inserted malicious code into legitimate SolarWinds software updates, allowing them to gain long-term access to government and enterprise networks. 
+     CIA Triad Impact 
+•	Confidentiality (Primary): Sensitive government and corporate information was secretly accessed. 
+•	Integrity (High): Trusted software updates were modified with malicious code before distribution. 
+•	Availability (Low): Systems remained operational because the attack focused on espionage instead of disruption. 
+Most Affected: Confidentiality and Integrity 
+  
+        5. Colonial Pipeline Ransomware Attack (2021) 
+The Colonial Pipeline attack was carried out using compromised VPN credentials. The company shut down pipeline operations to contain the ransomware attack. 
+        CIA Triad Impact 
+•	Availability (Primary): Pipeline services were suspended for several days, causing fuel shortages across the U.S. East Coast. 
+•	Confidentiality (High): Attackers stole approximately 100 GB of company data before deploying ransomware. 
+•	Integrity (High): Files and systems were encrypted, affecting normal business operations. Most Affected: Availability 
+  
+Comparative CIA Triad Analysis 
+ 
+Cyberattack 	Confidentiality Integrity Availability 
+WannaCry 	Low 	High 	Critical 
+Equifax 	Critical 	Medium 	Low 
+NotPetya 	Low 	Critical 	Critical 
+SolarWinds 	Critical 	High 	Low 
+Colonial Pipeline High 	High 	Critical 
+  
+Conclusion 
+The five cyberattacks demonstrate that different threats affect different components of the CIA Triad. WannaCry and Colonial Pipeline mainly targeted Availability by disrupting business operations. The Equifax breach primarily compromised Confidentiality by exposing millions of sensitive records. NotPetya severely affected both Integrity and Availability by permanently destroying systems and preventing recovery. SolarWinds compromised Confidentiality and Integrity through a sophisticated supply chain attack that allowed long-term unauthorized access. 
+These incidents highlight the importance of implementing strong cybersecurity controls such as timely patch management, multi-factor authentication, network segmentation, continuous monitoring, secure software updates, and regular backups. Protecting all three components of the CIA Triad is essential for maintaining a secure and resilient organization. 
