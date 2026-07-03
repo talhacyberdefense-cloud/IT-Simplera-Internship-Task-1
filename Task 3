@@ -1,0 +1,86 @@
+Research on Cybersecurity Tools 
+Introduction 
+Cybersecurity tools help organizations protect their networks, systems, and data from cyber threats. They are used to identify vulnerabilities, monitor network traffic, detect attacks, and secure sensitive information. This report discusses three widely used cybersecurity tools: Wireshark, Nmap, and Metasploit Framework. 
+  
+1. Wireshark 
+Overview 
+Wireshark is a free and open-source network protocol analyzer used to capture and inspect network traffic in real time. It helps security professionals understand how data flows across a network and identify suspicious or malicious activities. 
+Features 
+•	Captures live network packets. 
+•	Supports hundreds of network protocols. 
+•	Filters traffic for detailed analysis. 
+•	Provides graphical and statistical reports. 
+•	Helps troubleshoot network issues. 
+Advantages 
+•	Free and open source. • 	User-friendly interface. 
+•	Powerful packet analysis capabilities. 
+•	Widely used by network administrators and security analysts. 
+Limitations 
+•	Requires networking knowledge. 
+•	Cannot prevent attacks; it only analyzes network traffic. 
+Common Uses 
+•	Network troubleshooting. 
+•	Malware traffic analysis. 
+•	Security investigations. 
+•	Performance monitoring. 
+  
+2. Nmap (Network Mapper) 
+Overview 
+Nmap is one of the most popular network scanning tools used to discover devices, identify open ports, detect operating systems, and find running services on a network. It is widely used by penetration testers and system administrators. 
+Features 
+•	Host discovery. 
+
+•	Port scanning. 
+•	Operating system detection. 
+•	Service version detection. 
+•	Network security auditing. 
+Advantages 
+•	Fast and reliable. 
+•	Supports multiple scanning techniques. 
+•	Free and open source. 
+•	Helps identify security weaknesses. 
+Limitations 
+•	May be detected by firewalls or intrusion detection systems. 
+•	Incorrect usage may generate unnecessary network traffic. 
+Common Uses 
+•	Network inventory. 
+•	Vulnerability assessment. 
+•	Security auditing. 
+•	Penetration testing. 
+  
+3. Metasploit Framework 
+Overview 
+Metasploit Framework is a powerful penetration testing tool used to identify, verify, and exploit security vulnerabilities in computer systems. It allows security professionals to test the effectiveness of their security controls in a controlled environment. 
+Features 
+•	Large collection of exploit modules. 
+•	Payload generation. 
+•	Vulnerability validation. 
+•	Post-exploitation modules. 
+•	Integration with vulnerability scanners. 
+Advantages 
+•	Widely accepted penetration testing framework. 
+•	Regularly updated with new exploits. 
+•	Supports automation. 
+•	Excellent for security research and training. 
+Limitations 
+•	Requires technical expertise. 
+•	Should only be used with proper authorization. 
+•	Misuse can violate laws and organizational policies. 
+Common Uses 
+•	Ethical hacking. 
+•	Penetration testing. 
+•	Security research. 
+•	Vulnerability verification. 
+  
+Comparison of the Three Tools 	 
+	Tool 	Primary Purpose 	Main Users 	
+	Wireshark 	Network traffic analysis 	Network administrators, Security analysts 	
+	Nmap 	Network and port scanning 	Penetration 	testers, 	System 
+administrators 	
+	Metasploit 
+Framework 	Penetration testing and vulnerability exploitation 	Ethical 	hackers, 	Security 
+professionals 	
+ 
+  
+Conclusion 
+Wireshark, Nmap, and Metasploit Framework are essential cybersecurity tools used for different security tasks. Wireshark analyzes network traffic, Nmap discovers devices and scans networks, while Metasploit helps security professionals test and validate vulnerabilities. Together, these tools improve an organization's ability to detect security issues, assess risks, and strengthen overall cybersecurity defenses. Proper training and authorized use are essential to maximize their effectiveness and ensure ethical cybersecurity practices
